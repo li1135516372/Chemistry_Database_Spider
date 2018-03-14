@@ -1,0 +1,2 @@
+# Chemistry_Database_Spider
+化学专业数据库中药材信息及其化学成分信息爬取
